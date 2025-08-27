@@ -38,19 +38,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-
-  <!-- Streak：cache_seconds短め + 手動バージョンパラメータ v= を付けて更新を確実に -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kou-etal&theme=transparent&border_radius=10&hide_border=true&cache_seconds=1800&v=1" alt="streak stats" />
-
-  <!-- Activity Graph：同様に v= を持たせる -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kou-etal&custom_title=kou-etal's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&cache_seconds=1800&v=1" alt="activity graph" />
-
-</div>
-
----
 
 ## 🛠️ **Tech Stack**
 
