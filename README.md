@@ -41,11 +41,13 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kou-etal&theme=transparent&border_radius=10" alt="readme streak stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kou-etal&custom_title=kou-etal's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <!-- Streak：cache_seconds短め + 手動バージョンパラメータ v= を付けて更新を確実に -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kou-etal&theme=transparent&border_radius=10&hide_border=true&cache_seconds=1800&v=1" alt="streak stats" />
+
+  <!-- Activity Graph：同様に v= を持たせる -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kou-etal&custom_title=kou-etal's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&cache_seconds=1800&v=1" alt="activity graph" />
+
 </div>
 
 ---
@@ -80,23 +82,13 @@
 
 ---
 
-
----
-
 ## 💭 **Random Dev Quote**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&v=1" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [kou-etal](https://github.com/kou-etal) with ❤️**
-  
-  *"Code. Build. Scale."*
-</div>
