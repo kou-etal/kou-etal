@@ -71,9 +71,6 @@
 ### 🗄️ **Database**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-### ☁️ **APIs & Payments**
-<img src="https://skillicons.dev/icons?i=paypal,stripe" />
-
 ### 🎨 **UI / UX Design**
 <img src="https://skillicons.dev/icons?i=figma" />
 
@@ -83,11 +80,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kou-etal&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commit,Commits,Stars,Followers,Repositories" />
-</div>
 
 ---
 
